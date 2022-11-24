@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tanzeelgcuf
-- 👀 I’m interested in deep learning, deep neural networks, natural language processing, machine learning, data analysis  
+- 👀 I’m working in data engineering, deep learning, deep neural networks, natural language processing, machine learning, data analysis  
 - 🌱 I’m currently learning deepfake, swarm intelligence, Big data, deep neural networks with python  
 - 💞️ I’m looking to collaborate on research and development projects in python with AI 
 - 📫 How to reach me > contact tanzeelrehman913@gmail.com
