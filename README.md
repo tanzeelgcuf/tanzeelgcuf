@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning deepfake, swarm intelligence, Big data, deep neural networks with python  
 - 💞️ I’m looking to collaborate on research and development projects in python with AI 
 - 📫 How to reach me > contact tanzeelrehman913@gmail.com
+- https://www.technlogics.co
+- 
 
 <!---
 tanzeelgcuf/tanzeelgcuf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
